@@ -1,0 +1,113 @@
+{
+ "local_results": [
+  {
+   "position": 1,
+   "title": "Radiant Plumbing, Air Conditioning, & Electrical",
+   "place_id": "ChIJgaWi-H21RIYRSO43JeIAhSY",
+   "rating": 4.8,
+   "reviews": 18215,
+   "type": "Plumber",
+   "types": [
+    "Plumber",
+    "Air conditioning contractor",
+    "Electrician",
+    "Heating contractor",
+    "HVAC contractor"
+   ],
+   "address": "901 Reinli St, Austin, TX 78751",
+   "phone": "(512) 690-4935",
+   "website": "https://radiantplumbing.com/austin/",
+   "gps_coordinates": {
+    "latitude": 30.319505499999998,
+    "longitude": -97.710867
+   }
+  },
+  {
+   "position": 2,
+   "title": "Clarke Kent Plumbing",
+   "place_id": "ChIJt5Drbcq0RIYRIYj8euPKCTU",
+   "rating": 4.5,
+   "reviews": 629,
+   "type": "Plumber",
+   "types": [
+    "Plumber",
+    "Drainage service",
+    "Utility contractor"
+   ],
+   "address": "1408 W Ben White Blvd, Austin, TX 78704",
+   "phone": "(512) 477-2200",
+   "website": "https://www.clarkekentplumbing.com/",
+   "gps_coordinates": {
+    "latitude": 30.228482999999997,
+    "longitude": -97.78124059999999
+   }
+  },
+  {
+   "position": 3,
+   "title": "Economy Plumbing Services, LLC",
+   "place_id": "ChIJzwKq2Qu1RIYRRa82s95GBMQ",
+   "rating": 4.6,
+   "reviews": 611,
+   "type": "Plumber",
+   "types": [
+    "Plumber",
+    "Bathroom remodeler",
+    "Drainage service",
+    "Kitchen remodeler",
+    "Water softening equipment supplier"
+   ],
+   "address": "12, 701 Tillery St, Austin, TX 78702",
+   "phone": "(512) 233-6590",
+   "website": "https://www.plumbersthatcare.com/",
+   "gps_coordinates": {
+    "latitude": 30.2603828,
+    "longitude": -97.70429949999999
+   }
+  },
+  {
+   "position": 4,
+   "title": "Benjamin Franklin Plumbing of Central Austin",
+   "place_id": "ChIJNYS3R6zLRIYRCUKA-nEib64",
+   "rating": 4.7,
+   "reviews": 158,
+   "type": "Plumber",
+   "types": [
+    "Plumber"
+   ],
+   "address": "1029 Reinli St Ste 4, Austin, TX 78723",
+   "phone": "(512) 331-3884",
+   "website": "https://www.benjaminfranklinplumbing.com/central-austin/",
+   "gps_coordinates": {
+    "latitude": 30.3171356,
+    "longitude": -97.7049627
+   }
+  },
+  {
+   "position": 5,
+   "title": "BenjaminBL Plumbing",
+   "place_id": "ChIJQaUibGO1RIYRrq_W1qRHraU",
+   "rating": 4.9,
+   "reviews": 287,
+   "type": "Plumber",
+   "types": [
+    "Plumber",
+    "Bathroom remodeler",
+    "Gas installation service",
+    "Gasfitter",
+    "Hot water system supplier",
+    "Septic system service",
+    "Water purification company",
+    "Water softening equipment supplier"
+   ],
+   "address": "4801 S Congress Ave, Austin, TX 78745",
+   "phone": "(512) 559-4805",
+   "website": "https://www.benjaminblplumbing.com/",
+   "gps_coordinates": {
+    "latitude": 30.212995499999998,
+    "longitude": -97.7695363
+   }
+  }
+ ],
+ "credits_used": 1,
+ "credits_remaining": 54571
+}

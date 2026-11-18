@@ -1,0 +1,60 @@
+{
+ "place_info": {
+  "title": "Radiant Plumbing, Air Conditioning, & Electrical",
+  "address": "901 Reinli St, Austin, TX 78751",
+  "rating": 4.8,
+  "reviews": 18215,
+  "type": "HVAC contractor"
+ },
+ "topics": [
+  {
+   "keyword": "water heater replacement",
+   "mentions": 429,
+   "id": "DqBiJQ__Am0"
+  },
+  {
+   "keyword": "leak repair",
+   "mentions": 272,
+   "id": "QhTTTgWjwms"
+  },
+  {
+   "keyword": "knowledgeable staff",
+   "mentions": 4856,
+   "id": "AuEHbr8YwJA"
+  }
+ ],
+ "reviews": [
+  {
+   "rating": 5,
+   "iso_date": "2026-11-18T17:54:04Z",
+   "snippet": "Matt was straight to the point and helped me get what I needed. He was amazing to work with.",
+   "likes": 0,
+   "response": {
+    "snippet": "Hi. Your feedback is highly appreciated. Thank you for the review!"
+   }
+  },
+  {
+   "rating": 5,
+   "iso_date": "2026-11-18T12:55:45Z",
+   "snippet": "This is the third time we have used Radiant for plumbing issues, and they have consistently been supportive, prompt, and accommodating of our scheduling needs. During our most recent visit, Sean went above and beyond to help us resolve an issue with a toilet that wasn't draining properly. Although we ultimately had to replace the toilet, I truly appreciated his effort, professionalism, and dedication to finding a solution. We highly recommend Radiant!",
+   "likes": 0,
+   "response": {
+    "snippet": "Hi. We appreciate the kind words and are glad we could provide you with a positive experience!"
+   }
+  },
+  {
+   "rating": 5,
+   "iso_date": "2026-11-17T23:49:55Z",
+   "snippet": "Kevin Hernandez and Lance Gildon were available for both plumbing and electrical from Radiance and took care of days to weeks worth of puzzling troubles we’ve had with our home. This is the 5th-ish time I’ve used Radiance, and you guys are hands down the best. THANK YOU KEVIN AND LANCE!!!!!!!!",
+   "likes": 0,
+   "response": {
+    "snippet": "Hi. Thanks for taking the time to share your positive experience. We truly appreciate it!"
+   }
+  }
+ ],
+ "pagination": {
+  "next_page_token": "Ci8IARInCgoAP72F4U-Lyv__EhC2grFZfeC5v1YvtssAAAAAGgf_Al4U-LyvGAAiAA~s2"
+ },
+ "credits_used": 1,
+ "credits_remaining": 54570
+}

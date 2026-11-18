@@ -1,0 +1,41 @@
+{
+ "data": {
+  "results": [
+   {
+    "comment_id": "t1_p2cemhc",
+    "text": "I’m not here to sell I’m here to share what works for me I run 6 of the best rated bagel shops in NYC’s - I was getting frustrated with many of them tools that offered data but no solution so I built my own ai saas solution that does everything these multi million tools do put more for less LOCAL SEO / RANK TRACKING  \nBrightLocal  \nWhitespark  \nLocal Falcon  \nLocalo  \nPlePer  \nGMB Briefcase  \nLocal Dominator  \nSemrush Local  \nMoz Local  \nSE Ranking  \nSearch Atlas  \nAccuRanker  \nKeyword.com\n\nLISTINGS / CITATION SYNC  \nYext  \nUberall  \nSynup  \nPartoo  \nRio SEO  \nChatmeter  \nSOCi  \nSemrush Listing Management\n\nREPUTATION / REVIEWS  \nBirdeye  \nPodium  \nReputation.com  \nGrade.us  \nNiceJob  \nBroadly  \nSwell\n\nAGENCY / RESELLER PLATFORMS  \nVendasta  \nGoHighLevel  \nDashClicks",
+    "score": 2,
+    "created_at": "2026-08-07T21:16:20.930000+0000",
+    "permalink": "https://www.reddit.com/r/localsearch/comments/1viap4p/comment/p2cemhc/",
+    "subreddit": "localsearch"
+   },
+   {
+    "comment_id": "t1_ouj1cyy",
+    "text": "Thanks for including OuterBox on the list! We appreciate the mention.\n\nOne thing we'd add for anyone evaluating GEO or AI visibility partners: ask how they actually measure success.\n\nAI search optimization is evolving quickly, so it's important to look beyond traditional rankings. We encourage brands to ask agencies about AI citations, prompt visibility, AI Overviews, and referral traffic from LLMs. But most importantly, whether those signals translate into qualified leads and revenue. This is something we work hard to include in our reporting using partner tools like AccuRanker.\n\nNo matter who you choose, a measurement framework is just as important as the optimization strategy.",
+    "score": 1,
+    "created_at": "2026-06-29T16:18:13.197000+0000",
+    "permalink": "https://www.reddit.com/r/Ai_Search_Engines/comments/1uailuo/comment/ouj1cyy/",
+    "subreddit": "Ai_Search_Engines"
+   },
+   {
+    "comment_id": "t1_npq8v9a",
+    "text": "Working with SMEs, the stack that actually moves the needle: Ahrefs Lite for keywords/backlinks, Plausible or Fathom + GSC for traffic, SERPWatcher or AccuRanker for ranks, and Mention or Brandwatch for social. \n\nExport GSC monthly into Looker Studio so you get the insights Semrush buries behind upsells - queries, pages, countries - in one clean view. Net effect: better data, fewer paywalls, and roughly $200-$300 total while keeping control of your data if you churn. \n\nLocal-heavy? Add Screaming Frog Pro for fast audits.",
+    "score": 22,
+    "created_at": "2025-11-19T20:31:02.269000+0000",
+    "permalink": "https://www.reddit.com/r/SEO/comments/1p14i1i/comment/npq8v9a/",
+    "subreddit": "SEO"
+   },
+   {
+    "comment_id": "t1_npoqjro",
+    "text": "Semrush's paywall creep is intentional—they've shifted from flat-tier pricing to a-la-carte feature gating because their enterprise customers subsidize lower tiers less each quarter. For your use case (social monitoring + traffic analytics + keyword research + rank tracking), you're better off with a tool stack approach rather than one bloated platform.\n\n\n\nAhrefs ($129/month Lite plan) gives you cleaner keyword data and site explorer without the aggressive upsells. Their keyword difficulty scores are more realistic than Semrush's inflated metrics, and backlink analysis is stronger. The UI is less cluttered—you're not constantly pitched premium features you don't need. Downside: no social monitoring, but neither does Semrush unless you pay for their Social Media Toolkit add-on.\n\n\n\nFor traffic analytics, combine Google Search Console (free) with Plausible or Fathom ($14-19/month) for privacy-respecting site analytics that actually load fast. GSC's interface frustrates people because it's not designed for quick insights—export your data monthly and build a Looker Studio dashboard with the dimensions you care about (queries, pages, countries). Takes 30 minutes to set up, runs forever.\n\n\n\nSocial monitoring specifically: Brandwatch or Mention ($29-99/month depending on volume) beat Semrush's half-baked social tools. They actually crawl social platforms in real-time instead of sampling data weekly.\n\n\n\nRank tracking: SERPWatcher (part of Mangools suite, $49/month) or AccuRanker ($116/month for 1K keywords) update daily without the bloat. AccuRanker's API is solid if you ever want to automate reporting.\n\n\n\nTotal cost: Ahrefs ($129) + Plausible ($19) + Mention ($49) + SERPWatcher ($49) = $246/month for better data quality across all your needs, versus Semrush's $139 base + $279 traffic + $100 keyword limits = $518/month for inferior coverage.",
+    "score": 12,
+    "created_at": "2025-11-19T16:00:38.495000+0000",
+    "permalink": "https://www.reddit.com/r/SEO/comments/1p14i1i/comment/npoqjro/",
+    "subreddit": "SEO"
+   }
+  ],
+  "has_more": true
+ },
+ "credits_used": 1,
+ "credits_remaining": 54583
+}

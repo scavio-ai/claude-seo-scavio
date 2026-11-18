@@ -1,0 +1,93 @@
+{
+ "data": {
+  "query": "plumber",
+  "target": {
+   "place_id": "ChIJgaWi-H21RIYRSO43JeIAhSY"
+  },
+  "center": {
+   "lat": 30.2672,
+   "lng": -97.7431
+  },
+  "grid_size": 3,
+  "radius_km": 3,
+  "grid": [
+   {
+    "lat": 30.240173,
+    "lng": -97.774393,
+    "rank": null,
+    "found": false
+   },
+   {
+    "lat": 30.240173,
+    "lng": -97.7431,
+    "rank": null,
+    "found": false
+   },
+   {
+    "lat": 30.240173,
+    "lng": -97.711807,
+    "rank": null,
+    "found": false
+   },
+   {
+    "lat": 30.2672,
+    "lng": -97.774393,
+    "rank": 1,
+    "found": true,
+    "matched_place_id": "ChIJgaWi-H21RIYRSO43JeIAhSY",
+    "matched_title": "Radiant Plumbing, Air Conditioning, & Electrical"
+   },
+   {
+    "lat": 30.2672,
+    "lng": -97.7431,
+    "rank": 1,
+    "found": true,
+    "matched_place_id": "ChIJgaWi-H21RIYRSO43JeIAhSY",
+    "matched_title": "Radiant Plumbing, Air Conditioning, & Electrical"
+   },
+   {
+    "lat": 30.2672,
+    "lng": -97.711807,
+    "rank": 1,
+    "found": true,
+    "matched_place_id": "ChIJgaWi-H21RIYRSO43JeIAhSY",
+    "matched_title": "Radiant Plumbing, Air Conditioning, & Electrical"
+   },
+   {
+    "lat": 30.294227,
+    "lng": -97.774393,
+    "rank": 1,
+    "found": true,
+    "matched_place_id": "ChIJgaWi-H21RIYRSO43JeIAhSY",
+    "matched_title": "Radiant Plumbing, Air Conditioning, & Electrical"
+   },
+   {
+    "lat": 30.294227,
+    "lng": -97.7431,
+    "rank": 1,
+    "found": true,
+    "matched_place_id": "ChIJgaWi-H21RIYRSO43JeIAhSY",
+    "matched_title": "Radiant Plumbing, Air Conditioning, & Electrical"
+   },
+   {
+    "lat": 30.294227,
+    "lng": -97.711807,
+    "rank": 1,
+    "found": true,
+    "matched_place_id": "ChIJgaWi-H21RIYRSO43JeIAhSY",
+    "matched_title": "Radiant Plumbing, Air Conditioning, & Electrical"
+   }
+  ],
+  "summary": {
+   "points_total": 9,
+   "points_found": 6,
+   "avg_rank": 1,
+   "best_rank": 1,
+   "worst_rank": 1,
+   "found_share": 0.6667
+  }
+ },
+ "response_time": 9754,
+ "credits_used": 9,
+ "credits_remaining": 54560
+}
