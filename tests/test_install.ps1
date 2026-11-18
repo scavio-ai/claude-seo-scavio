@@ -36,9 +36,12 @@ try {
     if (Test-Path $Config) { Fail 'config written after a rejected key' }
     if (Test-Path $Skill) { Fail 'skill installed after a rejected key' }
     Write-Host 'install round trip (Windows): OK'
+    # The rejected-key run above leaves $LASTEXITCODE at 1 on purpose.
+    $global:LASTEXITCODE = 0
 }
 finally {
     $env:SCAVIO_INSTALL_HOME = $null
     $env:SCAVIO_API_KEY = $null
     Remove-Item -Recurse -Force $FakeHome -ErrorAction SilentlyContinue
 }
+exit 0
